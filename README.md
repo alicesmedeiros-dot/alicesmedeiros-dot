@@ -5,7 +5,11 @@
 
 🎓 Estudante da Aprendizagem Industrial em Assistente Adminidtrativo. (SENAI) Contratado pela Empresa Seara Alimentos.
 
-🎓 Estudante da 3º Série da Escola de Educação Básica Cecília Vivan
+🎓 Estudante do 3º Ano da Escola de Educação Básica Cecília Vivan
+
+## 📜 Cursos de Curta Duração
+
+🏛 Jove Empreendedor – [ACISV] (2025)
 
 
 
