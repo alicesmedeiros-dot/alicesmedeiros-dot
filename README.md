@@ -1,8 +1,13 @@
 
 # 👋 Olá, eu sou Alice dos Santos de Medeiros
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informatica - JBS(2026)
-🎓 Estudante da Aprendizagem Industrial em assistente adminidtrativo - JBS(2023)
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas de Informatição. (SENAI) contratado pela Empresa Seára Alimento.
+
+🎓 Estudante da Aprendizagem Industrial em Assistente Adminidtrativo - JBS(2023)
+🎓 Estudante da 3º Série da Escola de Educação Básica Cecília Vivan
+
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
