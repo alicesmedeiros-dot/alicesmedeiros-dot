@@ -1,8 +1,8 @@
 
 # 👋 Olá, eu sou Alice dos Santos de Medeiros
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informatica
-🎓 Estudante da Aprendizagem Industrial em assistente adminidtrativo
+🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informatica - JBS(2026)
+🎓 Estudante da Aprendizagem Industrial em assistente adminidtrativo - JBS(2023)
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
